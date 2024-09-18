@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://cWGv34wXGVmMptsxhGr3vbodoLxgdAJc_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">How does nnamu’s organizational model work?</name>
+      <description lang="en-US">Learn about how nnamu is structured and about our single-threaded, product-based organizational model.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://cWGv34wXGVmMptsxhGr3vbodoLxgdAJc_rise/_brX4A4jAzIZb9V8-0iEZiQul1EAxG9j" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our North Star/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://cWGv34wXGVmMptsxhGr3vbodoLxgdAJc_rise/CrRufQA1xI2aM4pcUw6p8ke20RTviz_u" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The problem with traditional, skill-based organizational designs/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://cWGv34wXGVmMptsxhGr3vbodoLxgdAJc_rise/DOoO4Aw6maeBDJtlrTgxy46j8BnGLIIM" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Single-Threaded Ownership and Product-Based Teams/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://cWGv34wXGVmMptsxhGr3vbodoLxgdAJc_rise/v-GQBlm-9OVKsRbnFfGqnAhdTBMTMVcF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our Organizational Design /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://cWGv34wXGVmMptsxhGr3vbodoLxgdAJc_rise/71qeyIRwEP01B_PwufSeUzKe-Go58AfZ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Extra: Org. Design Presentation/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
